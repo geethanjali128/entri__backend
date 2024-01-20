@@ -1,12 +1,2 @@
-.env
-/node_modules
 
-controllers
-modals
-routes
-app.js
-app1.js
-app3.js
-app4.js
-gitignore
 
